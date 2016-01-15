@@ -3,7 +3,7 @@
   "summary": "Spatial search data structures for OpenSolid",
   "repository": "https://github.com/ianmackenzie/elm-opensolid-spatialset.git",
   "license": "MPL-2.0",
-  "source-directories": ["src"],
+  "source-directories": ["src", "../elm-opensolid-core/src"],
   "exposed-modules": [
     "OpenSolid.SpatialSet2d",
     "OpenSolid.SpatialSet3d"
